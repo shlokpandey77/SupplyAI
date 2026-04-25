@@ -1,0 +1,6 @@
+shipment_id,location,delay_minutes,weather,traffic
+1,Delhi,10,Clear,Low
+2,Mumbai,45,Rain,High
+3,Kanpur,5,Clear,Medium
+4,Chennai,60,Storm,High
+5,Lucknow,15,Clear,Medium
